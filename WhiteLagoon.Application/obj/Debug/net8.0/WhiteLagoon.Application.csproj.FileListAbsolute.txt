@@ -1,0 +1,15 @@
+D:\DotNet Project 2025\WhiteLagoon\WhiteLagoon.Application\bin\Debug\net8.0\WhiteLagoon.Application.deps.json
+D:\DotNet Project 2025\WhiteLagoon\WhiteLagoon.Application\bin\Debug\net8.0\WhiteLagoon.Application.dll
+D:\DotNet Project 2025\WhiteLagoon\WhiteLagoon.Application\bin\Debug\net8.0\WhiteLagoon.Application.pdb
+D:\DotNet Project 2025\WhiteLagoon\WhiteLagoon.Application\obj\Debug\net8.0\WhiteLagoon.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNet Project 2025\WhiteLagoon\WhiteLagoon.Application\obj\Debug\net8.0\WhiteLagoon.Application.AssemblyInfoInputs.cache
+D:\DotNet Project 2025\WhiteLagoon\WhiteLagoon.Application\obj\Debug\net8.0\WhiteLagoon.Application.AssemblyInfo.cs
+D:\DotNet Project 2025\WhiteLagoon\WhiteLagoon.Application\obj\Debug\net8.0\WhiteLagoon.Application.csproj.CoreCompileInputs.cache
+D:\DotNet Project 2025\WhiteLagoon\WhiteLagoon.Application\obj\Debug\net8.0\WhiteLagoon.Application.dll
+D:\DotNet Project 2025\WhiteLagoon\WhiteLagoon.Application\obj\Debug\net8.0\refint\WhiteLagoon.Application.dll
+D:\DotNet Project 2025\WhiteLagoon\WhiteLagoon.Application\obj\Debug\net8.0\WhiteLagoon.Application.pdb
+D:\DotNet Project 2025\WhiteLagoon\WhiteLagoon.Application\obj\Debug\net8.0\ref\WhiteLagoon.Application.dll
+D:\DotNet Project 2025\WhiteLagoon\WhiteLagoon.Application\bin\Debug\net8.0\WhiteLagoon.Domain.dll
+D:\DotNet Project 2025\WhiteLagoon\WhiteLagoon.Application\bin\Debug\net8.0\WhiteLagoon.Domain.pdb
+D:\DotNet Project 2025\WhiteLagoon\WhiteLagoon.Application\obj\Debug\net8.0\WhiteLagoon.Application.csproj.AssemblyReference.cache
+D:\DotNet Project 2025\WhiteLagoon\WhiteLagoon.Application\obj\Debug\net8.0\WhiteLag.5B63BB29.Up2Date
