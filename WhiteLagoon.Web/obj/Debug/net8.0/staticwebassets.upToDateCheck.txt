@@ -22,6 +22,7 @@ wwwroot\images\VillaImage\11b6f9ac-ee34-4f82-a53e-aec91eff4111.jpg
 wwwroot\images\VillaImage\2b33b871-0e7f-4bc6-a295-26dc03a6f109.jpeg
 wwwroot\images\VillaImage\942a87de-bebd-4d5c-ad69-372fb38a961b.jpg
 wwwroot\images\VillaImage\c813cff6-02d7-459b-8f2d-3261a58fedfd.jpg
+wwwroot\images\VillaImage\e33d4e4b-d574-45af-946e-5b2e391e0a0f.jpg
 wwwroot\jquery-ajax-unobtrusive\dist\jquery.unobtrusive-ajax.js
 wwwroot\jquery-ajax-unobtrusive\dist\jquery.unobtrusive-ajax.min.js
 wwwroot\jquery-ajax-unobtrusive\license.txt

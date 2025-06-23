@@ -1479,6 +1479,88 @@
       ]
     },
     {
+      "Route": "images/VillaImage/e33d4e4b-d574-45af-946e-5b2e391e0a0f.47uuzdfrbm.jpg",
+      "AssetFile": "images/VillaImage/e33d4e4b-d574-45af-946e-5b2e391e0a0f.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "328905"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"YPumyAutWHdtvgm2ap35X+ebwzsE7kbBPZ0TpCo8FGo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 16 Mar 2025 14:40:41 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "47uuzdfrbm"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-YPumyAutWHdtvgm2ap35X+ebwzsE7kbBPZ0TpCo8FGo="
+        },
+        {
+          "Name": "label",
+          "Value": "images/VillaImage/e33d4e4b-d574-45af-946e-5b2e391e0a0f.jpg"
+        }
+      ]
+    },
+    {
+      "Route": "images/VillaImage/e33d4e4b-d574-45af-946e-5b2e391e0a0f.jpg",
+      "AssetFile": "images/VillaImage/e33d4e4b-d574-45af-946e-5b2e391e0a0f.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "328905"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"YPumyAutWHdtvgm2ap35X+ebwzsE7kbBPZ0TpCo8FGo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 16 Mar 2025 14:40:41 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-YPumyAutWHdtvgm2ap35X+ebwzsE7kbBPZ0TpCo8FGo="
+        }
+      ]
+    },
+    {
       "Route": "images/accessDenied.gcx3mt1vch.jpg",
       "AssetFile": "images/accessDenied.jpg",
       "Selectors": [],

@@ -17,3 +17,4 @@ D:\DotNet Project 2025\WhiteLagoon\WhiteLagoon.Infrastructure\obj\Debug\net8.0\W
 D:\DotNet Project 2025\WhiteLagoon\WhiteLagoon.Infrastructure\obj\Debug\net8.0\ref\WhiteLagoon.Infrastructure.dll
 D:\DotNet Project 2025\WhiteLagoon\WhiteLagoon.Infrastructure\bin\Debug\net8.0\WhiteLagoon.Application.dll
 D:\DotNet Project 2025\WhiteLagoon\WhiteLagoon.Infrastructure\bin\Debug\net8.0\WhiteLagoon.Application.pdb
+D:\DotNet Project 2025\WhiteLagoon\WhiteLagoon.Infrastructure\obj\Debug\net8.0\WhiteLagoon.Infrastructure.sourcelink.json

@@ -288,6 +288,18 @@
       <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"s0q35da8k5"},{"Name":"integrity","Value":"sha256-fL\u002BdVUclbEcb5XrTmxirpX5BaaRJSnP13DWzafm7fLA="},{"Name":"label","Value":"_content/WhiteLagoon.Web/images/VillaImage/c813cff6-02d7-459b-8f2d-3261a58fedfd.jpg"}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"380078"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022fL\u002BdVUclbEcb5XrTmxirpX5BaaRJSnP13DWzafm7fLA=\u0022"},{"Name":"Last-Modified","Value":"Mon, 20 Jan 2025 20:10:26 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/WhiteLagoon.Web/images/VillaImage/e33d4e4b-d574-45af-946e-5b2e391e0a0f.47uuzdfrbm.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\VillaImage\e33d4e4b-d574-45af-946e-5b2e391e0a0f.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"47uuzdfrbm"},{"Name":"integrity","Value":"sha256-YPumyAutWHdtvgm2ap35X\u002BebwzsE7kbBPZ0TpCo8FGo="},{"Name":"label","Value":"_content/WhiteLagoon.Web/images/VillaImage/e33d4e4b-d574-45af-946e-5b2e391e0a0f.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"328905"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022YPumyAutWHdtvgm2ap35X\u002BebwzsE7kbBPZ0TpCo8FGo=\u0022"},{"Name":"Last-Modified","Value":"Sun, 16 Mar 2025 14:40:41 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/WhiteLagoon.Web/images/VillaImage/e33d4e4b-d574-45af-946e-5b2e391e0a0f.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\VillaImage\e33d4e4b-d574-45af-946e-5b2e391e0a0f.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-YPumyAutWHdtvgm2ap35X\u002BebwzsE7kbBPZ0TpCo8FGo="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"328905"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022YPumyAutWHdtvgm2ap35X\u002BebwzsE7kbBPZ0TpCo8FGo=\u0022"},{"Name":"Last-Modified","Value":"Sun, 16 Mar 2025 14:40:41 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/WhiteLagoon.Web/jquery-ajax-unobtrusive/dist/jquery.unobtrusive-ajax.js">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\jquery-ajax-unobtrusive\dist\jquery.unobtrusive-ajax.js'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>

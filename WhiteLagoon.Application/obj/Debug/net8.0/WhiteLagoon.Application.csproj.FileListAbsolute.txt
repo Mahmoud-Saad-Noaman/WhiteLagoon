@@ -13,3 +13,4 @@ D:\DotNet Project 2025\WhiteLagoon\WhiteLagoon.Application\bin\Debug\net8.0\Whit
 D:\DotNet Project 2025\WhiteLagoon\WhiteLagoon.Application\bin\Debug\net8.0\WhiteLagoon.Domain.pdb
 D:\DotNet Project 2025\WhiteLagoon\WhiteLagoon.Application\obj\Debug\net8.0\WhiteLagoon.Application.csproj.AssemblyReference.cache
 D:\DotNet Project 2025\WhiteLagoon\WhiteLagoon.Application\obj\Debug\net8.0\WhiteLag.5B63BB29.Up2Date
+D:\DotNet Project 2025\WhiteLagoon\WhiteLagoon.Application\obj\Debug\net8.0\WhiteLagoon.Application.sourcelink.json

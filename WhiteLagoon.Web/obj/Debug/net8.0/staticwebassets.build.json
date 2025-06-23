@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "8eXVtoUJ8bRMw+ePhg9Z6VCanhtnKSdkrXZLH6IsCHM=",
+  "Hash": "yYRmTgVf1UbAUsURWIDx+Ef01ermrzHuFu+shxmEGCY=",
   "Source": "WhiteLagoon.Web",
   "BasePath": "_content/WhiteLagoon.Web",
   "Mode": "Default",
@@ -561,6 +561,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\VillaImage\\c813cff6-02d7-459b-8f2d-3261a58fedfd.jpg"
+    },
+    {
+      "Identity": "D:\\DotNet Project 2025\\WhiteLagoon\\WhiteLagoon.Web\\wwwroot\\images\\VillaImage\\e33d4e4b-d574-45af-946e-5b2e391e0a0f.jpg",
+      "SourceId": "WhiteLagoon.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\DotNet Project 2025\\WhiteLagoon\\WhiteLagoon.Web\\wwwroot\\",
+      "BasePath": "_content/WhiteLagoon.Web",
+      "RelativePath": "images/VillaImage/e33d4e4b-d574-45af-946e-5b2e391e0a0f#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "47uuzdfrbm",
+      "Integrity": "YPumyAutWHdtvgm2ap35X+ebwzsE7kbBPZ0TpCo8FGo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\VillaImage\\e33d4e4b-d574-45af-946e-5b2e391e0a0f.jpg"
     },
     {
       "Identity": "D:\\DotNet Project 2025\\WhiteLagoon\\WhiteLagoon.Web\\wwwroot\\jquery-ajax-unobtrusive\\dist\\jquery.unobtrusive-ajax.js",
@@ -4104,6 +4125,88 @@
         {
           "Name": "integrity",
           "Value": "sha256-fL+dVUclbEcb5XrTmxirpX5BaaRJSnP13DWzafm7fLA="
+        }
+      ]
+    },
+    {
+      "Route": "images/VillaImage/e33d4e4b-d574-45af-946e-5b2e391e0a0f.47uuzdfrbm.jpg",
+      "AssetFile": "D:\\DotNet Project 2025\\WhiteLagoon\\WhiteLagoon.Web\\wwwroot\\images\\VillaImage\\e33d4e4b-d574-45af-946e-5b2e391e0a0f.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "328905"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"YPumyAutWHdtvgm2ap35X+ebwzsE7kbBPZ0TpCo8FGo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 16 Mar 2025 14:40:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "47uuzdfrbm"
+        },
+        {
+          "Name": "label",
+          "Value": "images/VillaImage/e33d4e4b-d574-45af-946e-5b2e391e0a0f.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-YPumyAutWHdtvgm2ap35X+ebwzsE7kbBPZ0TpCo8FGo="
+        }
+      ]
+    },
+    {
+      "Route": "images/VillaImage/e33d4e4b-d574-45af-946e-5b2e391e0a0f.jpg",
+      "AssetFile": "D:\\DotNet Project 2025\\WhiteLagoon\\WhiteLagoon.Web\\wwwroot\\images\\VillaImage\\e33d4e4b-d574-45af-946e-5b2e391e0a0f.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "328905"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"YPumyAutWHdtvgm2ap35X+ebwzsE7kbBPZ0TpCo8FGo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 16 Mar 2025 14:40:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-YPumyAutWHdtvgm2ap35X+ebwzsE7kbBPZ0TpCo8FGo="
         }
       ]
     },

@@ -73,6 +73,10 @@
       "PackagePath": "staticwebassets\\images\\VillaImage\\c813cff6-02d7-459b-8f2d-3261a58fedfd.jpg"
     },
     {
+      "Id": "D:\\DotNet Project 2025\\WhiteLagoon\\WhiteLagoon.Web\\wwwroot\\images\\VillaImage\\e33d4e4b-d574-45af-946e-5b2e391e0a0f.jpg",
+      "PackagePath": "staticwebassets\\images\\VillaImage\\e33d4e4b-d574-45af-946e-5b2e391e0a0f.jpg"
+    },
+    {
       "Id": "D:\\DotNet Project 2025\\WhiteLagoon\\WhiteLagoon.Web\\wwwroot\\images\\accessDenied.jpg",
       "PackagePath": "staticwebassets\\images\\accessDenied.jpg"
     },
