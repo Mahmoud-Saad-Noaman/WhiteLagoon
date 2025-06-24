@@ -71,7 +71,7 @@ namespace WhiteLagoon.Infrastructure.Data
                     }, "Admin123*").GetAwaiter().GetResult();
                     _logger.LogInformation("Admin User Created Successfully.");
 
-                    ApplicationUser user = _context.ApplicationUsers.FirstOrDefault(u => u.Email == "admin@dotnetmastery.com");
+                    ApplicationUser user = _context.ApplicationUsers.FirstOrDefault(u => u.Email == "admin@gmail.com");
                     _userManager.AddToRoleAsync(user, SD.Role_Admin).GetAwaiter().GetResult();
                 }
             }

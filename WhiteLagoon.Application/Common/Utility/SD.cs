@@ -8,7 +8,7 @@ using WhiteLagoon.Application.Common.DTO;
 
 namespace WhiteLagoon.Application.Common.Utility
 {
-    public static class SD // SD -> static detail
+    public static class SD // SD -> static details
     {
         public const string Role_Customer = "Customer";
         public const string Role_Admin = "Admin";

@@ -9,6 +9,7 @@ using WhiteLagoon.Infrastructure.Data;
 
 namespace WhiteLagoon.Infrastructure.Repository
 {
+    // Repository for Amenity entity
     public class AmenityRepository : Repository<Amenity>, IAmenityRepository
     {
         private readonly ApplicationDbContext _context;

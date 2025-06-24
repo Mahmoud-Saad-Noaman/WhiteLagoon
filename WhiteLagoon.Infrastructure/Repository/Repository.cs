@@ -11,6 +11,7 @@ using WhiteLagoon.Infrastructure.Data;
 
 namespace WhiteLagoon.Infrastructure.Repository
 {
+    // Generic Repository 
     public class Repository<T> : IRepository<T> where T : class
     {
         private readonly ApplicationDbContext _context;
